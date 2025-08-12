@@ -1,6 +1,6 @@
 
 body {
-background-image: url(NSSA.jpg.jpg);
+background-image: url(NSSA.jpg);
 
 }
 h1 {
@@ -55,6 +55,7 @@ margin: 8px;
 padding: 12px 20px;
 cursor: pointer;
 }
+
 
 
 
